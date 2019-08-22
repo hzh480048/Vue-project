@@ -44,7 +44,7 @@ export default{
 }
 </script>
 
-<style>
+<style scoped>
 	.mui-table-view li h1{
 		font-size: 14px;
 	}

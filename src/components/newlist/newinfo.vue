@@ -43,7 +43,7 @@ import comment from '../sbucomponents/comment.vue'
 	
 </script>
 
-<style>
+<style scoped>
 .newsinfo-container{
 	padding: 0 4px;		
 	}
